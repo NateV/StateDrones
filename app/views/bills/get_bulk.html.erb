@@ -1,0 +1,5 @@
+<%= form_tag("/bills/bulk", method: "post") do %>
+  <%= label_tag :links %> 
+  <%= text_area_tag :links, "Enter links here." , size: "40x6" %>
+  <%= submit_tag "Submit" %> 
+<% end %> 

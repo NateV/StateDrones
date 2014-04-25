@@ -1,0 +1,27 @@
+<div class="bill_index_row">
+ <div class="bill_row_info">
+  <div class="bill_row_basic_info"> 
+    <span class="bill_row_state"> <%= bill.state.upcase %> </span>
+    <span class="bill_row_id"> <%= bill.bill_id %> </span>
+    <span class="bill_row_title"> <%= bill.title %> </span> 
+  </div>
+  <div class="bill_row_summary">
+    <% if bill.summary then %>
+      <%= bill.summary %>
+    <% else %>
+      No summary available. 
+    <% end %>
+  </div>
+  <div class="bill_row_tags">
+    <% if (bill.tags.length>0) then %>
+      Tags: <%=Tag.display bill.tags %>
+    <% else %>
+      No tags. 
+    <% end %> 
+  </div>
+ </div>
+ <div class="bill_row_link">
+  <%=link_to 'more', bill_path(bill) %>
+ </div>
+
+</div>

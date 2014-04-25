@@ -1,0 +1,208 @@
+body {
+  color: #022D30;
+  padding: 0px;
+  margin: 0px;
+}
+
+div.site_title {
+  text-align: center;
+  width: 100%;
+  font-size: 3em;
+  padding-top:2em;
+  padding-bottom:1em;
+}
+
+.index_filters {
+  width:100%;
+  text-align:center;
+}
+
+.state_filter {
+  display: inline-block;
+}
+
+.filter_middle_space {
+  display: inline-block;
+  width: 30%;
+}
+
+.tag_filter {
+  display: inline-block;
+}
+
+div.show_bill {
+  margin: 2em;
+}
+
+.id_and_title {
+  width:100%;
+  text-align:center;
+}
+
+.id_and_title .id {
+  font-size: 2em;
+  color: #1D52BD;
+  font-family: sans-serif;
+}
+
+.id_and_title .title {
+  font-size:1.5em;
+  color: #1D52BD;
+  font-family: sans-serif;
+}
+
+.state-wrapper {
+  width:100%
+}
+
+
+
+.state {
+  display: inline-block;
+  text-align:center;
+  font-size: 2em;
+  font-family: sans-serif;
+  border: 2px solid #8F161C;
+  border-radius:10px;
+  background:#8F161C;
+  color:#fff;
+  padding:.2em;
+  margin-left:45%;
+  #margin-right:50%;
+}
+
+.bills_list {
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+.bill_index_row {
+  border-bottom: 2px #1D52BD solid;
+  padding-top:.5em;
+}
+
+.bill_row_info {
+  width: 70%;
+  display: inline-block;
+}
+
+.bill_row_link {
+  display: inline-block;
+  width: 20%;
+  text-align: right;
+}
+
+.bill_row_basic_info {
+  width:100%;
+}
+
+.bill_row_state {
+  font-size: 1.5em;
+}
+
+.bill_row_id {
+  font-size: 1.25em;
+}
+
+.bill_row_title {
+  font-size: 1em;
+}
+
+.bill_row_summary {
+  font-size: .75em;
+  padding-left: 0.8em;
+} 
+
+.bill_row_tags {
+  font-size: .75em;
+  padding-top: 0.5em;
+}
+
+div.notes textarea{
+  width:90%;
+  min-height: 10em;
+}
+
+.spaceAtTheBottom {
+  width:100%;
+  min-height: 2em;
+}
+
+.show_footer {
+  float:left; 
+  position:fixed;
+  bottom:0em;
+  background: #8F161C;
+  width: 100%;
+  padding: 0.25em;
+  margin-top:2em;
+}
+
+.show_footer .previous_bill {
+  display: inline-block;
+}
+
+.show_footer .footer_spacer {
+  display: inline-block;
+  margin-left:auto;
+  margin-right: auto;
+}
+
+.show_footer .next_bill {
+  display: inline-block;
+}
+
+.show_footer .home {
+  display: inline-block;
+  float:right;
+  margin-right: 1em;
+}
+
+.show_footer a {
+  color: #fff;
+  font-size: 1.25em;
+  text-decoration: none;
+}
+
+.links {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: .5em;
+}
+
+.links a {
+  display: inline-block;
+  text-decoration:none;
+  font-size:1.2em;
+  padding-top:3px;
+  padding-bottom:3px;
+  padding-right:8px;
+  padding-left:8px;
+  border-radius: 10px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.links a.openStatesLink {
+  background: #1857AE;
+  color: #fff;
+}
+
+.links a.stateSiteLink {
+  background: #8F161C;
+  color:#fff;
+}
+
+.tags textarea {
+  width:90%;
+}
+
+.tag_cloud ul {
+  list-style-type: circle;
+}
+
+.tag_cloud li {
+  display: inline-block;
+  margin-right: 2em; 
+}

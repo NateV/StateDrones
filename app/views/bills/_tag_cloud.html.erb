@@ -1,0 +1,8 @@
+<div class="tag_cloud">
+  Previously used tags
+  <ul>
+    <% Bill.collection.distinct("tags.text").each do |tag| %>
+      <li> <%= tag %> </li>
+    <% end %> 
+  </ul>
+</div>

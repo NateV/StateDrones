@@ -1,0 +1,128 @@
+<div class="show_bill">
+
+	<div class="state-wrapper">
+	  <!--<div class="spacer-left"> </div>-->
+	  <div class="state">
+	    <%=@bill.state.upcase%>
+	  </div>
+	  <!--<div class="spacer-right"> </div>-->
+    </div>
+
+	<div class="id_and_title"> 
+	  <span class="id">  <%= @bill.bill_id %>, </span> <span class="title"> <%= @bill.title %> </span> 
+	</div>
+	
+
+    <div class="links">
+	  <% if @bill.sources.length>0 %>
+	    <% @bill.sources.each do |link| %>
+	      <% if /openstates/.match(link['url']) then %>
+	        <a class="openStatesLink" href="<%=link['url']%>" target="_blank"> OpenStates </a>
+	      <% else %>
+	        <a class="stateSiteLink" href="<%=link['url']%>" target="_blank"> State site
+	      <% end %> 
+	    <% end %> 
+	  <% end %> 
+	</div>
+
+    <div class="tags">
+	  Tags (separate with commas):    
+      <%= form_tag({controller: "bills", action:"update_tags", method: "post"}) do %>
+        <%= text_area_tag(:new_tags, Tag.display(@bill.tags)) %> 
+        <%= submit_tag "Update" %> 
+      <% end %>
+      <%= render partial: 'tag_cloud' %> 
+    </div>
+
+	<div class="chamber">
+	  Chamber: <%= @bill.chamber.capitalize %>
+	</div>
+
+	<div class="session">
+	  Session: <%= @bill.session %>
+	</div>
+
+	<div class="summary">
+	  <% if(@bill.summary) then %>
+		<%= @bill.summary %>
+	  <% else %>
+		No summary available. 
+	  <% end %> 
+	</div> 
+
+	<div>
+	  <% if(@bill.sponsors.length>0) %>
+		<ul>
+		  Sponsors: 
+		  <% @bill.sponsors.each do |sponsor| %>
+			<li> <%= sponsor.name %> </li>
+		  <% end %> 
+		</ul>
+	  <% end %>     
+	</div> 
+
+	<div>
+	  <% if(@bill.companions.length>0) %>  
+		<ul> 
+		  Companions:
+		  <% @bill.companions.each do |companion| %>
+			<li>
+			  <%= companion["bill_id"] %>, <%= companion["chamber"] %> chamber, <%= companion["session"]%> 
+			</li>
+		  <% end %>  
+		</ul>
+	  <% end %> 
+	</div> 
+  
+	<div>
+	  <% if(@bill.actions.length>0) %>
+		<ul>
+		  Actions: 
+		  <% @bill.actions.each do |action| %>
+			<li> <%= action["actor"].capitalize %> chamber, <%= action["action"] %>, <%= action["date"] %> (<%= action["type"] %>) </li>
+		  <% end %> 
+		</ul>
+	  <% end %> 
+	</div>
+
+	<div class="votes">
+	  <% if(@bill.votes.length>0) %>
+		<ul>
+		  <% @bill.votes.each do |vote| %>
+			<li> <%= vote %>  </li>
+		  <% end %>
+		</ul>
+	  <% end %> 
+	</div>
+
+	<div class="documents">
+	  <% if(@bill.documents.length>0) %>
+		<ul>
+		  Documents:
+		  <% @bill.documents.each do |document| %>
+			<li> <%= link_to document["name"], document["url"] %></li>
+		  <% end %> 
+		</ul>
+	  <% end %>
+	</div>
+   
+    <div class="notes">
+      Notes (separate with new lines)
+      <%= form_tag({controller: "bills", action: "update_notes", method: "post"}) do %>
+        <%= text_area_tag(:notes, Note.display(@bill.notes)) %>
+        <%= submit_tag("Update") %>    
+      <% end %>
+    </div>
+   
+    <div class="spaceAtTheBottom">
+    
+    </div>
+
+</div>
+
+<div class="show_footer">
+  <div class="previous_bill"> <%= link_to "Previous", {action: 'previous_bill', method:'get', params: {id: params[:id]}} %></div>
+  <div class="footer_spacer"> </div>
+  <div class="next_bill"> <%= link_to "Next", {action: 'next_bill', method:'get', params: {id: params[:id]}} %> </div>
+  <div class="home"> <%= link_to "Home", bills_path %> </div>
+</div>

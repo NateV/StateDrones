@@ -1,0 +1,19 @@
+<% if flash[:notice] then %>
+  <%= flash[:notice] %>
+<% end %> 
+
+<div class="site_title">
+  State legislative responses to UAVs
+</div>
+
+<div class="index_filters"> 
+  <div class="state_filter"> State filter! </div>
+  <div class="filter_middle_space"> </div>
+  <div class="tag_filter"> tag filter! </div>
+</div>
+
+<div class="bills_list"> 
+  <% @all_bills.each do |bill| %>
+    <%= render partial: 'index_row', locals: { bill: bill } %>
+  <% end %> 
+</div>

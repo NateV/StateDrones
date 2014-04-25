@@ -1,0 +1,8 @@
+<%=form_tag("/bills/new", method: "get") do  %>
+
+  <%= label_tag :openstates_link, "OpenStates link:" %> 
+  <%= text_field_tag :openstates_link%> 
+
+  <%= submit_tag "Find this bill." %>
+
+<% end %> 

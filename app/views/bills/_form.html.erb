@@ -1,0 +1,48 @@
+<%= form_for(@new_bill) do |f|%>
+
+<div>
+  <%= f.label :bill_id %>
+  <%= f.text_area :bill_id, rows: "1" %>
+</div>
+<div>
+  <%= f.label :summary %>
+  <%= f.text_area :summary, rows: "2" %>
+</div>
+<div> 
+  <%= f.label :chamber %> 
+  <%= f.text_area :chamber, rows: "1" %>
+</div>
+<div>  
+  <%= f.label :state %>
+  <%= f.text_area :state, rows:"1" %>
+</div>
+<div>  
+  <%= f.label :title %>
+  <%= f.text_area :title, rows:"1" %>
+</div>
+<div>  
+  <%= f.label :open_states_id %>
+  <%= f.text_area :open_states_id, rows:"1" %>
+</div>
+<div>  
+  <%= f.label :session %>
+  <%= f.text_area :session, rows:"1" %>
+</div>
+<div>  
+  <%= f.fields_for :sources do |source| %>
+    <%= source.label :url %>
+    <%= source.text_area :url, rows:"1" %>
+  <% end %> 
+</div>  
+<div>
+   <%= f.fields_for :sponsors do |sponsor| %> 
+   
+   <% end %> 
+</div>
+
+
+<div>
+  <%= f.submit "Submit"%> 
+</div>
+
+<% end %> 
