@@ -7,9 +7,9 @@
 </div>
 
 <div class="index_filters"> 
-  <div class="state_filter"> State filter! </div>
+  <div class="state_filter"> States: <%=select("bill","state",Bill.distinct("state").sort(), {include_blank: true}) %> </div>
   <div class="filter_middle_space"> </div>
-  <div class="tag_filter"> tag filter! </div>
+  <div class="tag_filter"> Tags: <%=select("bill","tag",Bill.distinct("tags.text"), {include_blank: true})%> </div>
 </div>
 
 <div class="bills_list"> 

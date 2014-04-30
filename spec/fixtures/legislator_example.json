@@ -1,0 +1,300 @@
+//http://openstates.org/api/v1/legislators/ARL000109/?apikey=[api_key]
+{
+   "last_name":"Steel",
+   "updated_at":"2014-04-27 02:03:33",
+   "sources":[
+      {
+         "url":"http://www.arkleg.state.ar.us/assembly/2013/2013R/Pages/MemberProfile.aspx?member=Steel"
+      }
+   ],
+   "full_name":"Nate Steel",
+   "old_roles":{
+      "2011-2012":[
+         {
+            "term":"2011-2012",
+            "end_date":null,
+            "district":"21",
+            "chamber":"lower",
+            "state":"ar",
+            "party":"Democratic",
+            "type":"member",
+            "start_date":null
+         },
+         {
+            "term":"2011-2012",
+            "committee_id":"ARC000040",
+            "chamber":"joint",
+            "state":"ar",
+            "subcommittee":null,
+            "committee":"BOYS STATE",
+            "position":"member",
+            "type":"committee member"
+         },
+         {
+            "term":"2011-2012",
+            "committee_id":"ARC000046",
+            "chamber":"joint",
+            "state":"ar",
+            "subcommittee":null,
+            "committee":"ENERGY - JOINT",
+            "position":"Alternate",
+            "type":"committee member"
+         },
+         {
+            "term":"2011-2012",
+            "committee_id":"ARC000050",
+            "chamber":"joint",
+            "state":"ar",
+            "subcommittee":"CLAIMS",
+            "committee":"JOINT BUDGET COMMITTEE",
+            "position":"member",
+            "type":"committee member"
+         },
+         {
+            "term":"2011-2012",
+            "committee_id":"ARC000054",
+            "chamber":"joint",
+            "state":"ar",
+            "subcommittee":null,
+            "committee":"JOINT BUDGET COMMITTEE",
+            "position":"member",
+            "type":"committee member"
+         },
+         {
+            "term":"2011-2012",
+            "committee_id":"ARC000209",
+            "chamber":"joint",
+            "state":"ar",
+            "subcommittee":null,
+            "committee":"JOINT BUDGET COMMITTEE - PRE-FISCAL SESSION BUDGET HEARINGS",
+            "position":"member",
+            "type":"committee member"
+         },
+         {
+            "term":"2011-2012",
+            "committee_id":"ARC000174",
+            "chamber":"joint",
+            "state":"ar",
+            "subcommittee":null,
+            "committee":"JOINT BUDGET COMMITTEE FISCAL SESSION BUDGET HEARINGS",
+            "position":"member",
+            "type":"committee member"
+         },
+         {
+            "term":"2011-2012",
+            "committee_id":"ARC000068",
+            "chamber":"joint",
+            "state":"ar",
+            "subcommittee":"COUNTIES AND MUNICIPALITIES",
+            "committee":"LEGISLATIVE JOINT AUDITING",
+            "position":"Alternate",
+            "type":"committee member"
+         },
+         {
+            "term":"2011-2012",
+            "committee_id":"ARC000097",
+            "chamber":"lower",
+            "state":"ar",
+            "subcommittee":null,
+            "committee":"INSURANCE & COMMERCE",
+            "position":"Non-Voting",
+            "type":"committee member"
+         },
+         {
+            "term":"2011-2012",
+            "committee_id":"ARC000101",
+            "chamber":"lower",
+            "state":"ar",
+            "subcommittee":"JUVENILE JUSTICE & CHILD SUPPORT SUBCOMMITTEE",
+            "committee":"JUDICIARY COMMITTEE",
+            "position":"Chair",
+            "type":"committee member"
+         },
+         {
+            "term":"2011-2012",
+            "committee_id":"ARC000102",
+            "chamber":"lower",
+            "state":"ar",
+            "subcommittee":null,
+            "committee":"JUDICIARY COMMITTEE",
+            "position":"member",
+            "type":"committee member"
+         },
+         {
+            "term":"2011-2012",
+            "committee_id":"ARC000116",
+            "chamber":"lower",
+            "state":"ar",
+            "subcommittee":"ELECTIONS SUBCOMMITTEE",
+            "committee":"STATE AGENCIES & GOVT'L AFFAIRS",
+            "position":"member",
+            "type":"committee member"
+         },
+         {
+            "term":"2011-2012",
+            "committee_id":"ARC000118",
+            "chamber":"lower",
+            "state":"ar",
+            "subcommittee":null,
+            "committee":"STATE AGENCIES & GOVT'L AFFAIRS",
+            "position":"member",
+            "type":"committee member"
+         }
+      ]
+   },
+   "id":"ARL000109",
+   "first_name":"Nate",
+   "middle_name":"",
+   "district":"19",
+   "chamber":"lower",
+   "state":"ar",
+   "votesmart_id":"119108",
+   "party":"Democratic",
+   "email":"nate.steel@arkansashouse.org",
+   "all_ids":[
+      "ARL000109",
+      "ARL000241"
+   ],
+   "leg_id":"ARL000109",
+   "active":true,
+   "transparencydata_id":"66c17ea2c8514b1b92948dc1e1bde93b",
+   "photo_url":"http://www.arkleg.state.ar.us/assembly/2013/Member%20Pictures/Steel.jpg",
+   "roles":[
+      {
+         "term":"2013-2014",
+         "end_date":null,
+         "district":"19",
+         "chamber":"lower",
+         "state":"ar",
+         "party":"Democratic",
+         "type":"member",
+         "start_date":null
+      },
+      {
+         "term":"2013-2014",
+         "committee_id":"ARC000028",
+         "chamber":"lower",
+         "state":"ar",
+         "subcommittee":null,
+         "committee":"Agriculture, Forestry & Economic Development",
+         "position":"Vice Chair",
+         "type":"committee member"
+      },
+      {
+         "term":"2013-2014",
+         "committee_id":"ARC000121",
+         "chamber":"joint",
+         "state":"ar",
+         "subcommittee":null,
+         "committee":"Budget Hearings",
+         "position":"member",
+         "type":"committee member"
+      },
+      {
+         "term":"2013-2014",
+         "committee_id":"ARC000026",
+         "chamber":"lower",
+         "state":"ar",
+         "subcommittee":"House Agriculture, Forestry & Natural Resources Subcom.",
+         "committee":"Agriculture, Forestry & Economic Development",
+         "position":"ex officio",
+         "type":"committee member"
+      },
+      {
+         "term":"2013-2014",
+         "committee_id":"ARC000046",
+         "chamber":"lower",
+         "state":"ar",
+         "subcommittee":null,
+         "committee":"Judiciary Committee",
+         "position":"member",
+         "type":"committee member"
+      },
+      {
+         "term":"2013-2014",
+         "committee_id":"ARC000050",
+         "chamber":"lower",
+         "state":"ar",
+         "subcommittee":null,
+         "committee":"Public Health, Welfare And Labor Committee",
+         "position":"Non-Voting",
+         "type":"committee member"
+      },
+      {
+         "term":"2013-2014",
+         "committee_id":"ARC000103",
+         "chamber":"joint",
+         "state":"ar",
+         "subcommittee":null,
+         "committee":"Joint Budget Committee - Pre-Fiscal Session Budget Hearings",
+         "position":"member",
+         "type":"committee member"
+      },
+      {
+         "term":"2013-2014",
+         "committee_id":"ARC000013",
+         "chamber":"joint",
+         "state":"ar",
+         "subcommittee":"Personnel",
+         "committee":"Joint Budget Committee",
+         "position":"member",
+         "type":"committee member"
+      },
+      {
+         "term":"2013-2014",
+         "committee_id":"ARC000043",
+         "chamber":"lower",
+         "state":"ar",
+         "subcommittee":"House Corrections & Criminal Law Subcommittee",
+         "committee":"Judiciary Committee",
+         "position":"member",
+         "type":"committee member"
+      },
+      {
+         "term":"2013-2014",
+         "committee_id":"ARC000027",
+         "chamber":"lower",
+         "state":"ar",
+         "subcommittee":"House Parks & Tourism Subcommittee",
+         "committee":"Agriculture, Forestry & Economic Development",
+         "position":"ex officio",
+         "type":"committee member"
+      },
+      {
+         "term":"2013-2014",
+         "committee_id":"ARC000015",
+         "chamber":"joint",
+         "state":"ar",
+         "subcommittee":null,
+         "committee":"Joint Budget Committee",
+         "position":"member",
+         "type":"committee member"
+      },
+      {
+         "term":"2013-2014",
+         "committee_id":"ARC000016",
+         "chamber":"joint",
+         "state":"ar",
+         "subcommittee":null,
+         "committee":"Joint Performance Review",
+         "position":"member",
+         "type":"committee member"
+      }
+   ],
+   "level":"state",
+   "url":"http://www.arkleg.state.ar.us/assembly/2013/2013R/Pages/MemberProfile.aspx?member=Steel",
+   "country":"us",
+   "created_at":"2011-05-31 16:27:50",
+   "+occupation":"Attorney",
+   "offices":[
+      {
+         "fax":null,
+         "name":"District Office",
+         "phone":"870-845-1870",
+         "address":"102 N. Main Street, Nashville, 71852",
+         "type":"district",
+         "email":null
+      }
+   ],
+   "suffixes":""
+}
