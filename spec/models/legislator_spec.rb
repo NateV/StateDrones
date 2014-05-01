@@ -28,4 +28,18 @@ describe Legislator do
     end
   end# of describe importing from OpenStates
 
+  describe "Legislator.present?" do
+    before(:each) do
+      @leg = FactoryGirl.create(:legislator)
+    end
+  
+    it "returns true if a legislator's id is already in the database." do
+      Legislator.present?(@leg.leg_id).should==true
+    end
+    
+    it "return false if a legislator's id is not alraedy in the database." do
+      Legislator.present?("EK00024").should==false
+    end
+  end# of Legislator.present?
+
 end# of describe Legislator

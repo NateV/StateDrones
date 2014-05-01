@@ -4,12 +4,14 @@ StateDrones::Application.routes.draw do
   get 'bills/bulk' => 'bills#get_bulk'
   post 'bills/bulk' => 'bills#post_bulk'
   
-  resources :bills
+  resources :bills, :legislators
   
   get 'bills/:id/previous' => 'bills#previous_bill'
   get 'bills/:id/next' => 'bills#next_bill'
   post 'bills/:id/update_tags' => 'bills#update_tags'
   post 'bills/:id/update_notes' => 'bills#update_notes'
+  
+  
   
   # You can have the root of your site routed with "root"
   # root 'welcome#index'

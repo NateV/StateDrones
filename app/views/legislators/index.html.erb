@@ -1,0 +1,8 @@
+
+<% unless @legislators.length==0 %>
+  <%=@legislators.each do |legislator| %>
+    <%= render partial: 'index_row', locals: {legislator: legislator} %>
+  <% end %>
+<% else %>
+  <div> There are no legislators to display. </div>
+<% end %>

@@ -1,6 +1,14 @@
 require 'rubygems'
 require 'mongo_mapper'
 
+##
+## N.B. The old_roles embedded document doesn't use the same structure as the openstates
+## source. Openstates uses a hash with arrays: {"term1":[{role},{role}],"term2":[]}.
+## the {role} includes the term, so I think its redundant. Because of that and because
+## I'm not sure if I could get the EmbeddedDocuments to work in a hash like that,
+## I change the hash to just an array: [{role},{role}]
+##
+
 class Legislator
   include MongoMapper::Document
   
@@ -37,6 +45,10 @@ class Legislator
   timestamps!
   
   def add_openstates_json(leg_hash)
+    if leg_hash.class==String
+      leg_hash = JSON.parse(leg_hash)
+    end
+    
     self.last_name = leg_hash["last_name"]
     self.updated_at = leg_hash["updated_at"]
     self.full_name = leg_hash["full_name"]
@@ -76,26 +88,29 @@ class Legislator
         :position => role["subcommittee"]
        )
     end
-      
+    
     self.old_roles = []
-    leg_hash["old_roles"].each do |session, roles|
-	  roles.each do |role|
-	    self.old_roles << OldRole.new(
-		  :term => role["term"],
-		  :end_date => role["end_date"],
-		  :district => role["district"],
-		  :chamber => role["chamber"],
-		  :state => role["state"],
-		  :party => role["party"],
-		  :type => role["type"],
-		  :start_date => role["start_date"],
-		  :committee=>role["committee"],
-		  :subcommittee => role["subcommittee"],
-		  :position => role["subcommittee"]
-	    )
-	  end
+    if leg_hash["old_roles"]  
+      
+      leg_hash["old_roles"].each do |session, roles|
+	    roles.each do |role|
+	      self.old_roles << OldRole.new(
+		    :term => role["term"],
+		    :end_date => role["end_date"],
+		    :district => role["district"],
+		    :chamber => role["chamber"],
+		    :state => role["state"],
+		    :party => role["party"],
+		    :type => role["type"],
+		    :start_date => role["start_date"],
+		    :committee=>role["committee"],
+		    :subcommittee => role["subcommittee"],
+		    :position => role["subcommittee"]
+	      )
+	    end
+      end
     end
-
+    
     self.sources = leg_hash["sources"].map do |source|
       Source.new(:url => source["url"])
     end
@@ -111,6 +126,16 @@ class Legislator
       )
     end
   end# of Legislator#add_openstates_json
+  
+  def self.present?(leg_id)
+    if self.find_by_leg_id(leg_id) then
+      true
+    else 
+      false
+    end
+  end# of self.present?
+  
+  
   
 end# of class Legislator
 
