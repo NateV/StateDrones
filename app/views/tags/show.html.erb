@@ -1,0 +1,9 @@
+<div>
+ <h1> Tag: <%=@tag%> </h1> <h2> (<%=@bills.count %>) </h2>
+</div>
+
+<div>
+  <% @bills.each do |bill| %>
+    <%= render partial: "/shared_partials/index_row", locals:{bill: bill} %>
+  <% end %> 
+</div>

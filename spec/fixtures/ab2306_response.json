@@ -1,0 +1,177 @@
+{
+    "id": "CAB00013384",
+    "actions": [
+        {
+            "related_entities": [],
+            "actor": "lower",
+            "action": "Introduced. To print.",
+            "+actor_info": {
+                "details": "Assembly (Desk)"
+            },
+            "date": "2014-02-21 00:00:00",
+            "type": [
+                "bill:introduced"
+            ]
+        },
+        {
+            "related_entities": [],
+            "actor": "lower",
+            "action": "From printer. May be heard in committee March 25.",
+            "+actor_info": {
+                "details": "Assembly (Desk)"
+            },
+            "date": "2014-02-23 00:00:00",
+            "type": [
+                "other"
+            ]
+        },
+        {
+            "related_entities": [],
+            "actor": "lower",
+            "action": "Read first time.",
+            "+actor_info": {
+                "details": "Assembly (Desk)"
+            },
+            "date": "2014-02-24 00:00:00",
+            "type": [
+                "bill:reading:1"
+            ]
+        },
+        {
+            "related_entities": [
+                {
+                    "type": "committee",
+                    "name": "Standing Committee on Judiciary",
+                    "id": "CAC000330"
+                }
+            ],
+            "actor": "lower",
+            "action": "Referred to Standing Committee on Judiciary.",
+            "+actor_info": {
+                "details": "Assembly (Committee CX13)",
+                "committee_code": "CX13"
+            },
+            "date": "2014-03-28 00:00:00",
+            "type": [
+                "committee:referred"
+            ]
+        },
+        {
+            "related_entities": [
+                {
+                    "type": "committee",
+                    "name": "Standing Committee on Judiciary",
+                    "id": "CAC000330"
+                }
+            ],
+            "actor": "lower",
+            "action": "From committee chair, with author's amendments: Amend, and re-refer to Standing Committee on Judiciary. Read second time and amended.",
+            "+actor_info": {
+                "details": "Assembly (E&E Engrossing)"
+            },
+            "date": "2014-03-28 00:00:00",
+            "type": [
+                "committee:passed",
+                "bill:reading:1",
+                "bill:reading:2"
+            ]
+        },
+        {
+            "related_entities": [
+                {
+                    "type": "committee",
+                    "name": "Standing Committee on Judiciary",
+                    "id": "CAC000330"
+                }
+            ],
+            "actor": "lower",
+            "action": "Re-referred to Standing Committee on Judiciary.",
+            "+actor_info": {
+                "details": "Assembly (Committee CX13)",
+                "committee_code": "CX13"
+            },
+            "date": "2014-04-01 00:00:00",
+            "type": [
+                "committee:referred"
+            ]
+        },
+        {
+            "related_entities": [],
+            "actor": "lower",
+            "action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+            "+actor_info": {
+                "details": "Assembly (Committee CX13)"
+            },
+            "date": "2014-04-22 00:00:00",
+            "type": [
+                "other"
+            ]
+        },
+        {
+            "related_entities": [],
+            "+no_votes": [
+                "0"
+            ],
+            "actor": "lower",
+            "+yes_votes": [
+                "10"
+            ],
+            "action": "From committee: Do pass. To consent calendar. (Ayes 10. Noes 0.) (May 6).",
+            "+actor_info": {
+                "details": "Assembly (Floor Second Reading)"
+            },
+            "date": "2014-05-06 00:00:00",
+            "type": [
+                "committee:passed",
+                "committee:passed:favorable"
+            ]
+        },
+        {
+            "related_entities": [],
+            "actor": "lower",
+            "action": "Read second time. Ordered to consent calendar.",
+            "+actor_info": {
+                "details": "Assembly (Floor Consent)"
+            },
+            "date": "2014-05-07 00:00:00",
+            "type": [
+                "bill:reading:1"
+            ]
+        },
+        {
+            "related_entities": [],
+            "actor": "lower",
+            "action": "Read third time. Passed. Ordered to the Senate.",
+            "+actor_info": {
+                "details": "Assembly (E&E Engrossing)"
+            },
+            "date": "2014-05-15 00:00:00",
+            "type": [
+                "bill:passed",
+                "bill:reading:1",
+                "bill:reading:3"
+            ],
+            "related_votes": [
+                "CAV00101163"
+            ]
+        },
+        {
+            "related_entities": [
+                {
+                    "type": "committee",
+                    "name": "Standing Committee on Rules",
+                    "id": "CAC000289"
+                }
+            ],
+            "actor": "upper",
+            "action": "In Senate. Read first time. To Standing Committee on Rules. for assignment.",
+            "+actor_info": {
+                "details": "Senate (Rules)"
+            },
+            "date": "2014-05-15 00:00:00",
+            "type": [
+                "bill:reading:1"
+            ]
+        }
+    ]
+}

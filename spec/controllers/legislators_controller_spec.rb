@@ -20,11 +20,12 @@ describe LegislatorsController do
   describe "GET#show/:id"
   
   describe "legislator_lookup" do 
-    it "returns a Legislator from a leg_id" do
-      controller = LegislatorsController.new
-      leg = controller.legislator_lookup("ARL000109")
-      leg.class.should==Legislator
-    end
+  # Commented to avoid hitting the OpenStates servers unnecessarily. 
+    # it "returns a Legislator from a leg_id" do
+#       controller = LegislatorsController.new
+#       leg = controller.legislator_lookup("ARL000109")
+#       leg.class.should==Legislator
+#     end
   
   end# of legislator_lookup
 

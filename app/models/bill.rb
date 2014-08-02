@@ -1,5 +1,6 @@
 require 'rubygems'
 require 'mongo_mapper'
+require 'net/http'
 
 class Bill
   include MongoMapper::Document
@@ -65,6 +66,36 @@ class Bill
     
   end# of add_openstates_json
 
+  def update_actions
+    bill_id_for_uri = bill_id.gsub(" ","%20")
+    session_for_uri = session.gsub(" ","%20")
+    actions_uri = URI("http://openstates.org/api/v1/bills/#{state}/#{session_for_uri}/#{bill_id_for_uri}/?apikey=#{ENV['OPENSTATES_API']}&fields=actions")
+    actions_response =  JSON.parse(Net::HTTP.get(actions_uri))
+    actions_response = actions_response["actions"]
+    #actions_response is a json object. I need to check each element in 
+    # action_response. Turn that object into an Action, 
+    # and then if that action is in self.actions, then I don't keep that action.
+    # if that action is not in self.actions, I save the action and keep the action
+    # in an array of new actions to be returned from the function.
+    new_actions = actions_response.map do |action|
+      action = Action.new(:date => action["date"],
+      			 :action => action["action"],
+      			 :type => action["type"],
+      			 :actor => action["actor"])
+      response = nil
+      if action.is_new?(self.actions) then
+    	response = action
+      end
+      response
+    end
+    new_actions.compact!
+
+    new_actions.each do |new_action|
+      self.actions << new_action
+    end
+  
+    new_actions
+  end# of update_actions
 end# of Bill
 
 class Action
@@ -74,6 +105,17 @@ class Action
   key :action, String
   key :type, Array
   key :actor, String
+  
+  def is_new?(old_actions)
+    response = true
+    old_actions.each do |old_action|
+      if ((self.date==old_action.date) && (self.action==old_action.action) && (self.type==old_action.type) && (self.actor==old_action.actor))
+        response = false
+      end
+    end
+    response
+  end# of is_new?
+
 end
 
 class Vote

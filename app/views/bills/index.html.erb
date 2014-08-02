@@ -12,6 +12,8 @@
   <div class="tag_filter"> Tags: <%=select("bill","tag",Bill.distinct("tags.text"), {include_blank: true})%> </div>
 </div>
 
+<h2> <%= @all_bills.count %> </h2> <h3> bills </h3>
+
 <div class="bills_list"> 
   <% @all_bills.each do |bill| %>
     <%= render partial: 'index_row', locals: { bill: bill } %>

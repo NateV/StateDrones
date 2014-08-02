@@ -1,0 +1,1260 @@
+{
+  "bill_id": "AB 1997",
+  "state": "ca",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "AJR 6",
+  "state": "ca",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 2334",
+  "state": "az",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 2150",
+  "state": "hi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 2582",
+  "state": "hi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SR 217",
+  "state": "il",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 1904",
+  "state": "ar",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 2538",
+  "state": "az",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 560",
+  "state": "ga",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 1561",
+  "state": "hi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 1657",
+  "state": "hi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 1691",
+  "state": "hi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 1827",
+  "state": "hi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 454",
+  "state": "ky",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "LB 412",
+  "state": "ne",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "S 4537",
+  "state": "ny",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "RS 483",
+  "state": "pr",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "S 1664",
+  "state": "ma",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "A 9697",
+  "state": "ny",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 15",
+  "state": "ca",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 2627",
+  "state": "hi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 725",
+  "state": "hi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 1221",
+  "state": "hi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SCR 137",
+  "state": "hi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HCR 39",
+  "state": "hi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SR 73",
+  "state": "hi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HCR 140",
+  "state": "hi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "S 1134",
+  "state": "id",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 1587",
+  "state": "il",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 1652",
+  "state": "il",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SR 27",
+  "state": "in",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HF 427",
+  "state": "ia",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "S 1051",
+  "state": "id",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "S 1067",
+  "state": "id",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SR 792",
+  "state": "il",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 20",
+  "state": "in",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 336",
+  "state": "in",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 2542",
+  "state": "ks",
+  "new_actions": [
+    {
+      "action": "Died in Senate Committee",
+      "actor": "upper",
+      "date": "2014-06-09 10:53:34",
+      "type": [
+        "committee:failed"
+      ]
+    }
+  ]
+}{
+  "bill_id": "HB 209",
+  "state": "ak",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 240",
+  "state": "al",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 2574",
+  "state": "az",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 200",
+  "state": "ga",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 2421",
+  "state": "hi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 2152",
+  "state": "hi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 2608",
+  "state": "hi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 317",
+  "state": "al",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SF 2157",
+  "state": "ia",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SF 2314",
+  "state": "ia",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SSB 3145",
+  "state": "ia",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 2394",
+  "state": "ks",
+  "new_actions": [
+    {
+      "action": "Died in Committee",
+      "actor": "lower",
+      "date": "2014-06-12 14:18:22",
+      "type": [
+        "committee:failed"
+      ]
+    }
+  ]
+}{
+  "bill_id": "HB 2683",
+  "state": "ks",
+  "new_actions": [
+    {
+      "action": "Died in Committee",
+      "actor": "lower",
+      "date": "2014-06-12 15:15:40",
+      "type": [
+        "committee:failed"
+      ]
+    }
+  ]
+}{
+  "bill_id": "SB 409",
+  "state": "ks",
+  "new_actions": [
+    {
+      "action": "Died on General Orders",
+      "actor": "upper",
+      "date": "2014-06-09 09:47:15",
+      "type": [
+        "other"
+      ]
+    }
+  ]
+}{
+  "bill_id": "HB 11",
+  "state": "ky",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "H 1357",
+  "state": "ma",
+  "new_actions": [
+    {
+      "action": "Accompanied a study order, see H4218",
+      "actor": "lower",
+      "date": "2014-06-26 00:00:00",
+      "type": [
+        "other"
+      ]
+    }
+  ]
+}{
+  "bill_id": "HF 1076",
+  "state": "mn",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SF 1506",
+  "state": "mn",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 1566",
+  "state": "nh",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 411",
+  "state": "ri",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 2937",
+  "state": "il",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HF 2289",
+  "state": "ia",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 1332",
+  "state": "pa",
+  "new_actions": [
+    {
+      "action": "Second consideration",
+      "actor": "upper",
+      "date": "2014-06-24 00:00:00",
+      "type": [
+        "bill:reading:2"
+      ]
+    },
+    {
+      "action": "Third consideration and final passage",
+      "actor": "upper",
+      "date": "2014-06-26 00:00:00",
+      "type": [
+        "bill:passed",
+        "bill:reading:3"
+      ]
+    },
+    {
+      "action": "Referred to GAME AND FISHERIES",
+      "actor": "lower",
+      "date": "2014-06-27 00:00:00",
+      "type": [
+        "committee:referred"
+      ]
+    }
+  ]
+}{
+  "bill_id": "SP 72",
+  "state": "me",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 468",
+  "state": "md",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HR 329",
+  "state": "mi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HCR 16",
+  "state": "mi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HR 280",
+  "state": "mi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HCR 17",
+  "state": "mi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HR 87",
+  "state": "mi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SR 169",
+  "state": "mi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 196",
+  "state": "mt",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SR 28",
+  "state": "mt",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 1307",
+  "state": "nh",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 619",
+  "state": "nh",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 402",
+  "state": "nc",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HJM 20",
+  "state": "or",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 961",
+  "state": "pa",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 1952",
+  "state": "tn",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 1777",
+  "state": "tn",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 2391",
+  "state": "tn",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 2438",
+  "state": "tn",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 591",
+  "state": "tn",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 796",
+  "state": "tn",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 912",
+  "state": "tx",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 2012",
+  "state": "va",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 1331",
+  "state": "va",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 954",
+  "state": "va",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 2324",
+  "state": "va",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 1485",
+  "state": "va",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 1919",
+  "state": "wa",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 5641",
+  "state": "wa",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 30",
+  "state": "wy",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 242",
+  "state": "wy",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "AB 1326",
+  "state": "ca",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HR 141",
+  "state": "il",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SCR 103",
+  "state": "id",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 5217",
+  "state": "ct",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "S 92",
+  "state": "fl",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 1775",
+  "state": "hi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 783",
+  "state": "hi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 342",
+  "state": "ky",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 785",
+  "state": "md",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 847",
+  "state": "md",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 125",
+  "state": "md",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 926",
+  "state": "md",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 4455",
+  "state": "mi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HR 279",
+  "state": "mi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SR 107",
+  "state": "mi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HF 1620",
+  "state": "mn",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HF 1994",
+  "state": "mn",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HF 2552",
+  "state": "mn",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HF 2553",
+  "state": "mn",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HF 612",
+  "state": "mn",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HF 990",
+  "state": "mn",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 159",
+  "state": "ak",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SF 2037",
+  "state": "mn",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SF 2687",
+  "state": "mn",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SF 485",
+  "state": "mn",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 46",
+  "state": "mo",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 150",
+  "state": "mt",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 312",
+  "state": "nc",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 1373",
+  "state": "nd",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 1361",
+  "state": "nh",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 1620",
+  "state": "nh",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "A 3157",
+  "state": "nj",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "A 3929",
+  "state": "nj",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "A 4073",
+  "state": "nj",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "A 4091",
+  "state": "nj",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "A 4381",
+  "state": "nj",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "A 534",
+  "state": "nj",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "S 2702",
+  "state": "nj",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HJM 6",
+  "state": "nm",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 556",
+  "state": "nm",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SCR 7",
+  "state": "nv",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "A 6244",
+  "state": "ny",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "A 6370",
+  "state": "ny",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "A 6541",
+  "state": "ny",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "A 8091",
+  "state": "ny",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "S 4839",
+  "state": "ny",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "S 6412",
+  "state": "ny",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 364",
+  "state": "oh",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HCR 44",
+  "state": "oh",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 189",
+  "state": "oh",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SCR 19",
+  "state": "oh",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 1556",
+  "state": "ok",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 1795",
+  "state": "ok",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 3035",
+  "state": "ok",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 2043",
+  "state": "ok",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 2710",
+  "state": "or",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 524",
+  "state": "or",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 853",
+  "state": "or",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 2516",
+  "state": "pa",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 875",
+  "state": "pa",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 5780",
+  "state": "ri",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 7170",
+  "state": "ri",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 2362",
+  "state": "ri",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "H 3415",
+  "state": "sc",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "H 3514",
+  "state": "sc",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "S 395",
+  "state": "sc",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 1669",
+  "state": "tn",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 1752",
+  "state": "tn",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 3047",
+  "state": "tn",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HR 866",
+  "state": "tx",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 1704",
+  "state": "tx",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 167",
+  "state": "ut",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 1616",
+  "state": "va",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "H 540",
+  "state": "vt",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "S 169",
+  "state": "vt",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 1771",
+  "state": "wa",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 2178",
+  "state": "wa",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 2789",
+  "state": "wa",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 6172",
+  "state": "wa",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 2732",
+  "state": "wv",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 2948",
+  "state": "wv",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 2997",
+  "state": "wv",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 105",
+  "state": "wy",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "AB 1524",
+  "state": "ca",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 3053",
+  "state": "hi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 330",
+  "state": "la",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 1779",
+  "state": "tn",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 1892",
+  "state": "tn",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "AB 1327",
+  "state": "ca",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 1204",
+  "state": "mo",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "AB 203",
+  "state": "wi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 196",
+  "state": "wi",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "S 7474",
+  "state": "ny",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 356",
+  "state": "la",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 207",
+  "state": "oh",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SCR 124",
+  "state": "la",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "SB 1334",
+  "state": "pa",
+  "new_actions": [
+    {
+      "action": "Second consideration",
+      "actor": "upper",
+      "date": "2014-06-24 00:00:00",
+      "type": [
+        "bill:reading:2"
+      ]
+    },
+    {
+      "action": "Third consideration and final passage",
+      "actor": "upper",
+      "date": "2014-06-26 00:00:00",
+      "type": [
+        "bill:passed",
+        "bill:reading:3"
+      ]
+    },
+    {
+      "action": "Referred to GAME AND FISHERIES",
+      "actor": "lower",
+      "date": "2014-06-27 00:00:00",
+      "type": [
+        "committee:referred"
+      ]
+    }
+  ]
+}{
+  "bill_id": "AB 2306",
+  "state": "ca",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 292",
+  "state": "oh",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 1233",
+  "state": "md",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 1373",
+  "state": "nd",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "S 7639",
+  "state": "ny",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 2997",
+  "state": "wv",
+  "new_actions": [
+
+  ]
+}{
+  "bill_id": "HB 3039",
+  "state": "ok",
+  "new_actions": [
+
+  ]
+}

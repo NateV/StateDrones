@@ -1,0 +1,8 @@
+MongoDB shell version: 2.4.6
+connecting to: test
+Wed May  7 08:11:40.582 map reduce failed:{
+	"errmsg" : "exception: ReferenceError: db is not defined near 'ames.push(db.legislators.find({leg_id:thi'  (line 5)",
+	"code" : 16722,
+	"ok" : 0
+} at src/mongo/shell/collection.js:970
+failed to load: mapReduce_billSponsorships.js

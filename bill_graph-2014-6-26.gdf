@@ -1,0 +1,1049 @@
+nodedef> name,type VARCHAR(32),state VARCHAR(32),session VARCHAR(32)
+ca-AB 1997-20132014,bill,ca,20132014
+tax break,tag
+ca-AJR 6-20132014,bill,ca,20132014
+requesting FAA choose state for test site,tag
+az-HB 2334-51st-2nd-regular,bill,az,51st-2nd-regular
+evidence admissibility,tag
+hi-SB 2150-2014 Regular Session,bill,hi,2014 Regular Session
+government surveillance,tag
+private remedy against government,tag
+warrants,tag
+hi-SB 2582-2014 Regular Session,bill,hi,2014 Regular Session
+weapon ban,tag
+IACPAC recs,tag
+il-SR 217-98th,bill,il,98th
+study uavs,tag
+died,tag
+ar-HB 1904-2013,bill,ar,2013
+biometrics,tag
+data retention,tag
+public disclosure,tag
+az-HB 2538-51st-2nd-regular,bill,az,51st-2nd-regular
+ga-HB 560-2013_14,bill,ga,2013_14
+criminal offense for cops,tag
+hi-HB 1561-2014 Regular Session,bill,hi,2014 Regular Session
+agricultural surveillance ban,tag
+private invasion of privacy,tag
+hi-HB 1657-2014 Regular Session,bill,hi,2014 Regular Session
+NCSL recs,tag
+private nuisance,tag
+exempt model planes,tag
+hi-HB 1691-2014 Regular Session,bill,hi,2014 Regular Session
+hi-HB 1827-2014 Regular Session,bill,hi,2014 Regular Session
+pre-acquisition approval,tag
+minimization,tag
+ky-HB 454-2013RS,bill,ky,2013RS
+ne-LB 412-103,bill,ne,103
+ny-S 4537-2013-2014,bill,ny,2013-2014
+special protection for place of worship,tag
+criminal penalties,tag
+pr-RS 483-2013-2016,bill,pr,2013-2016
+ma-S 1664-188th,bill,ma,188th
+no surveillance of political beliefs,tag
+disclosure to targets,tag
+ny-A 9697-2013-2014,bill,ny,2013-2014
+no hunting with uav,tag
+ca-SB 15-20132014,bill,ca,20132014
+public notice,tag
+limit intragovernment sharing,tag
+hi-HB 2627-2014 Regular Session,bill,hi,2014 Regular Session
+promoting industry,tag
+hi-HB 725-2014 Regular Session,bill,hi,2014 Regular Session
+hi-SB 1221-2013 Regular Session,bill,hi,2013 Regular Session
+hi-SCR 137-2011 Regular Session,bill,hi,2011 Regular Session
+hi-HCR 39-2011 Regular Session,bill,hi,2011 Regular Session
+promoting FAA rules,tag
+hi-SR 73-2011 Regular Session,bill,hi,2011 Regular Session
+hi-HCR 140-2011 Regular Session,bill,hi,2011 Regular Session
+id-S 1134-2013,bill,id,2013
+protecting certain private uav use,tag
+civil cause of action,tag
+il-SB 1587-98th,bill,il,98th
+il-HB 1652-98th,bill,il,98th
+protects hunters,tag
+in-SR 27-2013,bill,in,2013
+ia-HF 427-2013-2014,bill,ia,2013-2014
+id-S 1051-2013,bill,id,2013
+id-S 1067-2013,bill,id,2013
+il-SR 792-97th,bill,il,97th
+repeal FAA act,tag
+in-SB 20-2013,bill,in,2013
+no public money for uavs,tag
+in-SB 336-2014,bill,in,2014
+uav licenses,tag
+ks-HB 2542-2013-2014,bill,ks,2013-2014
+ak-HB 209-28,bill,ak,28
+al-SB 240-2014rs,bill,al,2014rs
+az-HB 2574-51st-1st-regular,bill,az,51st-1st-regular
+ga-SB 200-2013_14,bill,ga,2013_14
+hi-HB 2421-2014 Regular Session,bill,hi,2014 Regular Session
+hi-SB 2152-2014 Regular Session,bill,hi,2014 Regular Session
+hi-SB 2608-2014 Regular Session,bill,hi,2014 Regular Session
+al-SB 317-2013rs,bill,al,2013rs
+ia-SF 2157-2013-2014,bill,ia,2013-2014
+ia-SF 2314-2013-2014,bill,ia,2013-2014
+ia-SSB 3145-2013-2014,bill,ia,2013-2014
+ks-HB 2394-2013-2014,bill,ks,2013-2014
+ks-HB 2683-2013-2014,bill,ks,2013-2014
+ks-SB 409-2013-2014,bill,ks,2013-2014
+ky-HB 11-2014RS,bill,ky,2014RS
+withdrawn,tag
+no corporate-operated uavs,tag
+ma-H 1357-188th,bill,ma,188th
+mn-HF 1076-2013-2014,bill,mn,2013-2014
+mn-SF 1506-2013-2014,bill,mn,2013-2014
+limit federal agency uav use,tag
+nh-HB 1566-2014,bill,nh,2014
+ri-SB 411-2013,bill,ri,2013
+il-SB 2937-98th,bill,il,98th
+government access to third party data,tag
+ia-HF 2289-2013-2014,bill,ia,2013-2014
+uav aggravate offenses,tag
+warrant,tag
+pa-SB 1332-2013-2014,bill,pa,2013-2014
+me-SP 72-126,bill,me,126
+md-HB 468-2014,bill,md,2014
+mi-HR 329-2013-2014,bill,mi,2013-2014
+mi-HCR 16-2013-2014,bill,mi,2013-2014
+mi-HR 280-2013-2014,bill,mi,2013-2014
+mi-HCR 17-2013-2014,bill,mi,2013-2014
+mi-HR 87-2013-2014,bill,mi,2013-2014
+mi-SR 169-2011-2012,bill,mi,2011-2012
+mt-SB 196-2013,bill,mt,2013
+mt-SR 28-2011,bill,mt,2011
+nh-HB 1307-2014,bill,nh,2014
+nh-HB 619-2013,bill,nh,2013
+nc-SB 402-2013,bill,nc,2013
+moratorium,tag
+or-HJM 20-2011 Regular Session,bill,or,2011 Regular Session
+pa-HB 961-2013-2014,bill,pa,2013-2014
+tn-HB 1952-108,bill,tn,108
+tn-SB 1777-108,bill,tn,108
+tn-HB 2391-108,bill,tn,108
+tn-SB 2438-108,bill,tn,108
+tn-HB 591-108,bill,tn,108
+tn-SB 796-108,bill,tn,108
+tx-HB 912-83,bill,tx,83
+va-HB 2012-2013,bill,va,2013
+va-SB 1331-2013,bill,va,2013
+va-SB 954-2013,bill,va,2013
+va-HB 2324-2011,bill,va,2011
+va-SB 1485-2011,bill,va,2011
+wa-HB 1919-2011-2012,bill,wa,2011-2012
+wa-SB 5641-2011-2012,bill,wa,2011-2012
+wy-HB 30-2014,bill,wy,2014
+wy-HB 242-2013,bill,wy,2013
+fresh pursuit exception,tag
+ca-AB 1326-20132014,bill,ca,20132014
+il-HR 141-98th,bill,il,98th
+oppose drone strikes,tag
+support federal bill,tag
+id-SCR 103-2013,bill,id,2013
+ct-HB 5217-2014,bill,ct,2014
+regulate non-NAS airspace,tag
+fl-S 92-2013,bill,fl,2013
+hi-HB 1775-2014 Regular Session,bill,hi,2014 Regular Session
+hi-SB 783-2013 Regular Session,bill,hi,2013 Regular Session
+administrative discipline,tag
+ky-HB 342-2014RS,bill,ky,2014RS
+md-HB 785-2014,bill,md,2014
+md-HB 847-2014,bill,md,2014
+administrative penalties,tag
+md-SB 125-2013,bill,md,2013
+md-SB 926-2014,bill,md,2014
+mi-HB 4455-2013-2014,bill,mi,2013-2014
+mi-HR 279-2013-2014,bill,mi,2013-2014
+mi-SR 107-2013-2014,bill,mi,2013-2014
+mn-HF 1620-2013-2014,bill,mn,2013-2014
+search warrant,tag
+mn-HF 1994-2013-2014,bill,mn,2013-2014
+mn-HF 2552-2013-2014,bill,mn,2013-2014
+mn-HF 2553-2013-2014,bill,mn,2013-2014
+notice to targets,tag
+mn-HF 612-2013-2014,bill,mn,2013-2014
+mn-HF 990-2013-2014,bill,mn,2013-2014
+ak-HB 159-28,bill,ak,28
+mn-SF 2037-2013-2014,bill,mn,2013-2014
+mn-SF 2687-2013-2014,bill,mn,2013-2014
+mn-SF 485-2013-2014,bill,mn,2013-2014
+mo-HB 46-2013,bill,mo,2013
+mt-SB 150-2013,bill,mt,2013
+nc-HB 312-2013,bill,nc,2013
+nd-HB 1373-63,bill,nd,63
+failed,tag
+nh-HB 1361-2014,bill,nh,2014
+nh-HB 1620-2014,bill,nh,2014
+extra penalty for hacking uav,tag
+nj-A 3157-215,bill,nj,215
+ban private ownership or posession,tag
+nj-A 3929-215,bill,nj,215
+nj-A 4073-215,bill,nj,215
+ban 3d party disclosure,tag
+nj-A 4091-215,bill,nj,215
+limit altitude of law enforcement uav,tag
+nj-A 4381-215,bill,nj,215
+nj-A 534-216,bill,nj,216
+nj-S 2702-215,bill,nj,215
+public reporting,tag
+nm-HJM 6-2012,bill,nm,2012
+nm-SB 556-2013,bill,nm,2013
+nv-SCR 7-77,bill,nv,77
+ny-A 6244-2013-2014,bill,ny,2013-2014
+ny-A 6370-2013-2014,bill,ny,2013-2014
+ny-A 6541-2013-2014,bill,ny,2013-2014
+ny-A 8091-2013-2014,bill,ny,2013-2014
+ny-S 4839-2013-2014,bill,ny,2013-2014
+ny-S 6412-2013-2014,bill,ny,2013-2014
+oh-HB 364-130,bill,oh,130
+oh-HCR 44-130,bill,oh,130
+oh-SB 189-130,bill,oh,130
+data minimization,tag
+oh-SCR 19-129,bill,oh,129
+ok-HB 1556-2013-2014,bill,ok,2013-2014
+no mfr liability,tag
+ok-HB 1795-2013-2014,bill,ok,2013-2014
+ok-HB 3035-2013-2014,bill,ok,2013-2014
+ok-SB 2043-2013-2014,bill,ok,2013-2014
+or-HB 2710-2013 Regular Session,bill,or,2013 Regular Session
+preempt local rules,tag
+or-SB 524-2013 Regular Session,bill,or,2013 Regular Session
+or-SB 853-2013 Regular Session,bill,or,2013 Regular Session
+oversight board,tag
+pa-HB 2516-2011-2012,bill,pa,2011-2012
+pa-SB 875-2013-2014,bill,pa,2013-2014
+ri-HB 5780-2013,bill,ri,2013
+ri-HB 7170-2014,bill,ri,2014
+ri-SB 2362-2014,bill,ri,2014
+sc-H 3415-2013-2014,bill,sc,2013-2014
+sc-H 3514-2013-2014,bill,sc,2013-2014
+sc-S 395-2013-2014,bill,sc,2013-2014
+tn-HB 1669-108,bill,tn,108
+tn-SB 1752-108,bill,tn,108
+tn-SB 3047-107,bill,tn,107
+tx-HR 866-83,bill,tx,83
+tx-SB 1704-83,bill,tx,83
+cooperating with feds,tag
+ut-SB 167-2014,bill,ut,2014
+va-HB 1616-2013,bill,va,2013
+protect university use,tag
+vt-H 540-2013-2014,bill,vt,2013-2014
+vt-S 169-2013-2014,bill,vt,2013-2014
+wa-HB 1771-2013-2014,bill,wa,2013-2014
+wa-HB 2178-2013-2014,bill,wa,2013-2014
+ban certain private use,tag
+wa-HB 2789-2013-2014,bill,wa,2013-2014
+public comment period,tag
+notice to target,tag
+wa-SB 6172-2013-2014,bill,wa,2013-2014
+wv-HB 2732-2013,bill,wv,2013
+wv-HB 2948-2013,bill,wv,2013
+wv-HB 2997-2014,bill,wv,2014
+wy-HB 105-2014,bill,wy,2014
+ca-AB 1524-20132014,bill,ca,20132014
+identifying uavs,tag
+hi-SB 3053-2014 Regular Session,bill,hi,2014 Regular Session
+FAA test site operations,tag
+la-SB 330-2014,bill,la,2014
+civil penalties,tag
+tn-HB 1779-108,bill,tn,108
+tn-SB 1892-108,bill,tn,108
+ca-AB 1327-20132014,bill,ca,20132014
+passed one chamber,tag
+mo-HB 1204-2014,bill,mo,2014
+wi-AB 203-2013 Regular Session,bill,wi,2013 Regular Session
+wi-SB 196-2013 Regular Session,bill,wi,2013 Regular Session
+ny-S 7474-2013-2014,bill,ny,2013-2014
+la-SB 356-2014,bill,la,2014
+critical infrastructure ban,tag
+oh-HB 207-130,bill,oh,130
+la-SCR 124-2014,bill,la,2014
+pa-SB 1334-2013-2014,bill,pa,2013-2014
+ca-AB 2306-20132014,bill,ca,20132014
+oh-HB 292-130,bill,oh,130
+md-HB 1233-2013,bill,md,2013
+ny-S 7639-2013-2014,bill,ny,2013-2014
+wv-HB 2997-2013,bill,wv,2013
+ok-HB 3039-2013-2014,bill,ok,2013-2014
+edgedef> node1,node2
+ca-AB 1997-20132014,tax break
+ca-AJR 6-20132014,requesting FAA choose state for test site
+az-HB 2334-51st-2nd-regular,evidence admissibility
+hi-SB 2150-2014 Regular Session,government surveillance
+hi-SB 2150-2014 Regular Session,private remedy against government
+hi-SB 2150-2014 Regular Session,evidence admissibility
+hi-SB 2150-2014 Regular Session,warrants
+hi-SB 2582-2014 Regular Session,warrants
+hi-SB 2582-2014 Regular Session,weapon ban
+hi-SB 2582-2014 Regular Session,IACPAC recs
+il-SR 217-98th,study uavs
+il-SR 217-98th,died
+ar-HB 1904-2013,government surveillance
+ar-HB 1904-2013,warrants
+ar-HB 1904-2013,biometrics
+ar-HB 1904-2013,data retention
+ar-HB 1904-2013,public disclosure
+az-HB 2538-51st-2nd-regular,warrants
+az-HB 2538-51st-2nd-regular,government surveillance
+ga-HB 560-2013_14,warrants
+ga-HB 560-2013_14,criminal offense for cops
+ga-HB 560-2013_14,evidence admissibility
+hi-HB 1561-2014 Regular Session,government surveillance
+hi-HB 1561-2014 Regular Session,warrants
+hi-HB 1561-2014 Regular Session,evidence admissibility
+hi-HB 1561-2014 Regular Session,weapon ban
+hi-HB 1561-2014 Regular Session,agricultural surveillance ban
+hi-HB 1561-2014 Regular Session,private invasion of privacy
+hi-HB 1561-2014 Regular Session,private remedy against government
+hi-HB 1657-2014 Regular Session,IACPAC recs
+hi-HB 1657-2014 Regular Session,NCSL recs
+hi-HB 1657-2014 Regular Session,private nuisance
+hi-HB 1657-2014 Regular Session,weapon ban
+hi-HB 1657-2014 Regular Session,private invasion of privacy
+hi-HB 1657-2014 Regular Session,exempt model planes
+hi-HB 1691-2014 Regular Session,warrants
+hi-HB 1691-2014 Regular Session,evidence admissibility
+hi-HB 1691-2014 Regular Session,government surveillance
+hi-HB 1691-2014 Regular Session,exempt model planes
+hi-HB 1691-2014 Regular Session,private remedy against government
+hi-HB 1827-2014 Regular Session,pre-acquisition approval
+hi-HB 1827-2014 Regular Session,minimization
+hi-HB 1827-2014 Regular Session,warrants
+hi-HB 1827-2014 Regular Session,government surveillance
+hi-HB 1827-2014 Regular Session,evidence admissibility
+hi-HB 1827-2014 Regular Session,data retention
+hi-HB 1827-2014 Regular Session,public disclosure
+ky-HB 454-2013RS,government surveillance
+ky-HB 454-2013RS,warrants
+ky-HB 454-2013RS,private remedy against government
+ky-HB 454-2013RS,evidence admissibility
+ne-LB 412-103,government surveillance
+ne-LB 412-103,private remedy against government
+ne-LB 412-103,evidence admissibility
+ny-S 4537-2013-2014,government surveillance
+ny-S 4537-2013-2014,warrants
+ny-S 4537-2013-2014,special protection for place of worship
+ny-S 4537-2013-2014,criminal penalties
+ny-S 4537-2013-2014,private remedy against government
+pr-RS 483-2013-2016,study uavs
+pr-RS 483-2013-2016,died
+ma-S 1664-188th,government surveillance
+ma-S 1664-188th,warrants
+ma-S 1664-188th,evidence admissibility
+ma-S 1664-188th,minimization
+ma-S 1664-188th,biometrics
+ma-S 1664-188th,no surveillance of political beliefs
+ma-S 1664-188th,data retention
+ma-S 1664-188th,disclosure to targets
+ma-S 1664-188th,public disclosure
+ny-A 9697-2013-2014,no hunting with uav
+ca-SB 15-20132014,warrants
+ca-SB 15-20132014,data retention
+ca-SB 15-20132014,private invasion of privacy
+ca-SB 15-20132014,public notice
+ca-SB 15-20132014,limit intragovernment sharing
+hi-HB 2627-2014 Regular Session,promoting industry
+hi-HB 725-2014 Regular Session,promoting industry
+hi-SB 1221-2013 Regular Session,promoting industry
+hi-SCR 137-2011 Regular Session,promoting industry
+hi-SCR 137-2011 Regular Session,requesting FAA choose state for test site
+hi-HCR 39-2011 Regular Session,promoting FAA rules
+hi-SR 73-2011 Regular Session,requesting FAA choose state for test site
+hi-HCR 140-2011 Regular Session,requesting FAA choose state for test site
+id-S 1134-2013,protecting certain private uav use
+id-S 1134-2013,civil cause of action
+id-S 1134-2013,exempt model planes
+id-S 1134-2013,warrants
+id-S 1134-2013,government surveillance
+id-S 1134-2013,agricultural surveillance ban
+id-S 1134-2013,private invasion of privacy
+il-SB 1587-98th,government surveillance
+il-SB 1587-98th,warrants
+il-SB 1587-98th,weapon ban
+il-SB 1587-98th,evidence admissibility
+il-SB 1587-98th,data retention
+il-SB 1587-98th,public disclosure
+il-HB 1652-98th,protects hunters
+in-SR 27-2013,study uavs
+ia-HF 427-2013-2014,government surveillance
+ia-HF 427-2013-2014,warrants
+id-S 1051-2013,government surveillance
+id-S 1051-2013,warrants
+id-S 1051-2013,evidence admissibility
+id-S 1051-2013,private remedy against government
+id-S 1067-2013,government surveillance
+id-S 1067-2013,private remedy against government
+id-S 1067-2013,evidence admissibility
+il-SR 792-97th,repeal FAA act
+in-SB 20-2013,private invasion of privacy
+in-SB 20-2013,no public money for uavs
+in-SB 336-2014,uav licenses
+ks-HB 2542-2013-2014,tax break
+ak-HB 209-28,evidence admissibility
+ak-HB 209-28,government surveillance
+ak-HB 209-28,weapon ban
+al-SB 240-2014rs,protects hunters
+az-HB 2574-51st-1st-regular,government surveillance
+az-HB 2574-51st-1st-regular,warrants
+az-HB 2574-51st-1st-regular,evidence admissibility
+az-HB 2574-51st-1st-regular,private remedy against government
+ga-SB 200-2013_14,government surveillance
+ga-SB 200-2013_14,warrants
+ga-SB 200-2013_14,weapon ban
+hi-HB 2421-2014 Regular Session,warrants
+hi-HB 2421-2014 Regular Session,government surveillance
+hi-HB 2421-2014 Regular Session,IACPAC recs
+hi-HB 2421-2014 Regular Session,weapon ban
+hi-HB 2421-2014 Regular Session,private nuisance
+hi-SB 2152-2014 Regular Session,private nuisance
+hi-SB 2152-2014 Regular Session,weapon ban
+hi-SB 2152-2014 Regular Session,IACPAC recs
+hi-SB 2152-2014 Regular Session,private invasion of privacy
+hi-SB 2608-2014 Regular Session,government surveillance
+hi-SB 2608-2014 Regular Session,public disclosure
+hi-SB 2608-2014 Regular Session,warrants
+hi-SB 2608-2014 Regular Session,data retention
+hi-SB 2608-2014 Regular Session,limit intragovernment sharing
+hi-SB 2608-2014 Regular Session,private remedy against government
+hi-SB 2608-2014 Regular Session,public disclosure
+al-SB 317-2013rs,government surveillance
+al-SB 317-2013rs,warrants
+al-SB 317-2013rs,private remedy against government
+al-SB 317-2013rs,evidence admissibility
+ia-SF 2157-2013-2014,warrants
+ia-SF 2157-2013-2014,agricultural surveillance ban
+ia-SF 2157-2013-2014,evidence admissibility
+ia-SF 2157-2013-2014,private remedy against government
+ia-SF 2157-2013-2014,private invasion of privacy
+ia-SF 2314-2013-2014,government surveillance
+ia-SF 2314-2013-2014,warrants
+ia-SF 2314-2013-2014,agricultural surveillance ban
+ia-SF 2314-2013-2014,private remedy against government
+ia-SSB 3145-2013-2014,government surveillance
+ia-SSB 3145-2013-2014,warrants
+ia-SSB 3145-2013-2014,evidence admissibility
+ia-SSB 3145-2013-2014,minimization
+ia-SSB 3145-2013-2014,biometrics
+ia-SSB 3145-2013-2014,data retention
+ia-SSB 3145-2013-2014,public disclosure
+ks-HB 2394-2013-2014,government surveillance
+ks-HB 2394-2013-2014,weapon ban
+ks-HB 2394-2013-2014,private remedy against government
+ks-HB 2394-2013-2014,evidence admissibility
+ks-HB 2683-2013-2014,weapon ban
+ks-HB 2683-2013-2014,pre-acquisition approval
+ks-HB 2683-2013-2014,limit intragovernment sharing
+ks-HB 2683-2013-2014,warrants
+ks-HB 2683-2013-2014,evidence admissibility
+ks-HB 2683-2013-2014,minimization
+ks-HB 2683-2013-2014,biometrics
+ks-HB 2683-2013-2014,private remedy against government
+ks-HB 2683-2013-2014,public disclosure
+ks-SB 409-2013-2014,weapon ban
+ks-SB 409-2013-2014,pre-acquisition approval
+ks-SB 409-2013-2014,public disclosure
+ks-SB 409-2013-2014,government surveillance
+ks-SB 409-2013-2014,warrants
+ks-SB 409-2013-2014,private remedy against government
+ky-HB 11-2014RS,withdrawn
+ky-HB 11-2014RS,government surveillance
+ky-HB 11-2014RS,warrants
+ky-HB 11-2014RS,no corporate-operated uavs
+ma-H 1357-188th,government surveillance
+ma-H 1357-188th,warrants
+ma-H 1357-188th,minimization
+ma-H 1357-188th,biometrics
+ma-H 1357-188th,no surveillance of political beliefs
+ma-H 1357-188th,data retention
+ma-H 1357-188th,public disclosure
+mn-HF 1076-2013-2014,criminal penalties
+mn-HF 1076-2013-2014,government surveillance
+mn-HF 1076-2013-2014,warrants
+mn-HF 1076-2013-2014,evidence admissibility
+mn-HF 1076-2013-2014,private remedy against government
+mn-SF 1506-2013-2014,criminal penalties
+mn-SF 1506-2013-2014,government surveillance
+mn-SF 1506-2013-2014,warrants
+mn-SF 1506-2013-2014,evidence admissibility
+mn-SF 1506-2013-2014,limit federal agency uav use
+mn-SF 1506-2013-2014,private remedy against government
+nh-HB 1566-2014,government surveillance
+nh-HB 1566-2014,warrants
+nh-HB 1566-2014,criminal penalties
+nh-HB 1566-2014,criminal offense for cops
+ri-SB 411-2013,government surveillance
+ri-SB 411-2013,warrants
+ri-SB 411-2013,private remedy against government
+ri-SB 411-2013,evidence admissibility
+il-SB 2937-98th,government surveillance
+il-SB 2937-98th,government access to third party data
+il-SB 2937-98th,warrants
+ia-HF 2289-2013-2014,uav aggravate offenses
+ia-HF 2289-2013-2014,government surveillance
+ia-HF 2289-2013-2014,warrant
+ia-HF 2289-2013-2014,data retention
+ia-HF 2289-2013-2014,pre-acquisition approval
+ia-HF 2289-2013-2014,private invasion of privacy
+ia-HF 2289-2013-2014,weapon ban
+ia-HF 2289-2013-2014,public disclosure
+pa-SB 1332-2013-2014,protects hunters
+me-SP 72-126,pre-acquisition approval
+me-SP 72-126,government surveillance
+me-SP 72-126,warrants
+me-SP 72-126,minimization
+me-SP 72-126,biometrics
+me-SP 72-126,data retention
+me-SP 72-126,evidence admissibility
+me-SP 72-126,public disclosure
+md-HB 468-2014,promoting industry
+mi-HR 329-2013-2014,promoting industry
+mi-HCR 16-2013-2014,requesting FAA choose state for test site
+mi-HR 280-2013-2014,requesting FAA choose state for test site
+mi-HCR 17-2013-2014,requesting FAA choose state for test site
+mi-HR 87-2013-2014,promoting industry
+mi-SR 169-2011-2012,requesting FAA choose state for test site
+mt-SB 196-2013,government surveillance
+mt-SB 196-2013,warrants
+mt-SB 196-2013,evidence admissibility
+mt-SR 28-2011,promoting industry
+nh-HB 1307-2014,no public money for uavs
+nh-HB 619-2013,criminal penalties
+nh-HB 619-2013,private invasion of privacy
+nc-SB 402-2013,moratorium
+nc-SB 402-2013,study uavs
+or-HJM 20-2011 Regular Session,requesting FAA choose state for test site
+pa-HB 961-2013-2014,government surveillance
+tn-HB 1952-108,protects hunters
+tn-SB 1777-108,protects hunters
+tn-HB 2391-108,study uavs
+tn-SB 2438-108,study uavs
+tn-HB 591-108,government surveillance
+tn-HB 591-108,private remedy against government
+tn-HB 591-108,evidence admissibility
+tn-SB 796-108,government surveillance
+tn-SB 796-108,warrants
+tn-SB 796-108,private remedy against government
+tn-SB 796-108,evidence admissibility
+tx-HB 912-83,protecting certain private uav use
+tx-HB 912-83,government surveillance
+tx-HB 912-83,warrants
+tx-HB 912-83,criminal penalties
+tx-HB 912-83,civil cause of action
+tx-HB 912-83,public disclosure
+va-HB 2012-2013,moratorium
+va-SB 1331-2013,moratorium
+va-SB 954-2013,protects hunters
+va-HB 2324-2011,promoting industry
+va-SB 1485-2011,promoting industry
+wa-HB 1919-2011-2012,tax break
+wa-SB 5641-2011-2012,tax break
+wy-HB 30-2014,no hunting with uav
+wy-HB 242-2013,government surveillance
+wy-HB 242-2013,warrants
+wy-HB 242-2013,fresh pursuit exception
+wy-HB 242-2013,evidence admissibility
+ca-AB 1326-20132014,tax break
+il-HR 141-98th,oppose drone strikes
+il-HR 141-98th,support federal bill
+id-SCR 103-2013,promoting industry
+ct-HB 5217-2014,uav aggravate offenses
+ct-HB 5217-2014,government surveillance
+ct-HB 5217-2014,warrants
+ct-HB 5217-2014,minimization
+ct-HB 5217-2014,biometrics
+ct-HB 5217-2014,evidence admissibility
+ct-HB 5217-2014,public disclosure
+ct-HB 5217-2014,regulate non-NAS airspace
+fl-S 92-2013,government surveillance
+fl-S 92-2013,warrants
+fl-S 92-2013,evidence admissibility
+fl-S 92-2013,private remedy against government
+hi-HB 1775-2014 Regular Session,government surveillance
+hi-HB 1775-2014 Regular Session,minimization
+hi-HB 1775-2014 Regular Session,public disclosure
+hi-HB 1775-2014 Regular Session,evidence admissibility
+hi-HB 1775-2014 Regular Session,private remedy against government
+hi-HB 1775-2014 Regular Session,no hunting with uav
+hi-SB 783-2013 Regular Session,government surveillance
+hi-SB 783-2013 Regular Session,warrants
+hi-SB 783-2013 Regular Session,minimization
+hi-SB 783-2013 Regular Session,biometrics
+hi-SB 783-2013 Regular Session,data retention
+hi-SB 783-2013 Regular Session,evidence admissibility
+hi-SB 783-2013 Regular Session,administrative discipline
+hi-SB 783-2013 Regular Session,public disclosure
+hi-SB 783-2013 Regular Session,pre-acquisition approval
+ky-HB 342-2014RS,weapon ban
+ky-HB 342-2014RS,protecting certain private uav use
+ky-HB 342-2014RS,government surveillance
+ky-HB 342-2014RS,warrants
+ky-HB 342-2014RS,minimization
+ky-HB 342-2014RS,biometrics
+ky-HB 342-2014RS,evidence admissibility
+md-HB 785-2014,government surveillance
+md-HB 785-2014,warrants
+md-HB 785-2014,evidence admissibility
+md-HB 785-2014,agricultural surveillance ban
+md-HB 785-2014,private invasion of privacy
+md-HB 785-2014,private remedy against government
+md-HB 847-2014,government surveillance
+md-HB 847-2014,warrants
+md-HB 847-2014,biometrics
+md-HB 847-2014,minimization
+md-HB 847-2014,data retention
+md-HB 847-2014,weapon ban
+md-HB 847-2014,public disclosure
+md-HB 847-2014,administrative penalties
+md-SB 125-2013,promoting industry
+md-SB 926-2014,government surveillance
+md-SB 926-2014,warrants
+md-SB 926-2014,minimization
+md-SB 926-2014,biometrics
+md-SB 926-2014,data retention
+md-SB 926-2014,weapon ban
+md-SB 926-2014,administrative discipline
+md-SB 926-2014,public disclosure
+mi-HB 4455-2013-2014,pre-acquisition approval
+mi-HB 4455-2013-2014,government surveillance
+mi-HB 4455-2013-2014,warrants
+mi-HB 4455-2013-2014,weapon ban
+mi-HB 4455-2013-2014,minimization
+mi-HB 4455-2013-2014,data retention
+mi-HB 4455-2013-2014,biometrics
+mi-HB 4455-2013-2014,evidence admissibility
+mi-HB 4455-2013-2014,administrative discipline
+mi-HB 4455-2013-2014,public disclosure
+mi-HB 4455-2013-2014,criminal penalties
+mi-HR 279-2013-2014,requesting FAA choose state for test site
+mi-SR 107-2013-2014,requesting FAA choose state for test site
+mn-HF 1620-2013-2014,criminal penalties
+mn-HF 1620-2013-2014,government surveillance
+mn-HF 1620-2013-2014,search warrant
+mn-HF 1620-2013-2014,limit federal agency uav use
+mn-HF 1620-2013-2014,private remedy against government
+mn-HF 1620-2013-2014,evidence admissibility
+mn-HF 1994-2013-2014,government surveillance
+mn-HF 1994-2013-2014,warrants
+mn-HF 1994-2013-2014,evidence admissibility
+mn-HF 1994-2013-2014,private remedy against government
+mn-HF 2552-2013-2014,government surveillance
+mn-HF 2552-2013-2014,warrants
+mn-HF 2552-2013-2014,pre-acquisition approval
+mn-HF 2552-2013-2014,minimization
+mn-HF 2552-2013-2014,biometrics
+mn-HF 2552-2013-2014,weapon ban
+mn-HF 2552-2013-2014,data retention
+mn-HF 2552-2013-2014,evidence admissibility
+mn-HF 2552-2013-2014,disclosure to targets
+mn-HF 2552-2013-2014,private remedy against government
+mn-HF 2552-2013-2014,public disclosure
+mn-HF 2553-2013-2014,government surveillance
+mn-HF 2553-2013-2014,warrants
+mn-HF 2553-2013-2014,limit intragovernment sharing
+mn-HF 2553-2013-2014,pre-acquisition approval
+mn-HF 2553-2013-2014,evidence admissibility
+mn-HF 2553-2013-2014,biometrics
+mn-HF 2553-2013-2014,minimization
+mn-HF 2553-2013-2014,data retention
+mn-HF 2553-2013-2014,notice to targets
+mn-HF 2553-2013-2014,private remedy against government
+mn-HF 2553-2013-2014,public disclosure
+mn-HF 612-2013-2014,government surveillance
+mn-HF 612-2013-2014,private remedy against government
+mn-HF 612-2013-2014,evidence admissibility
+mn-HF 990-2013-2014,regulate non-NAS airspace
+mn-HF 990-2013-2014,weapon ban
+mn-HF 990-2013-2014,government surveillance
+mn-HF 990-2013-2014,warrants
+mn-HF 990-2013-2014,private invasion of privacy
+mn-HF 990-2013-2014,public disclosure
+mn-HF 990-2013-2014,evidence admissibility
+mn-HF 990-2013-2014,criminal penalties
+ak-HB 159-28,evidence admissibility
+ak-HB 159-28,warrants
+ak-HB 159-28,private invasion of privacy
+mn-SF 2037-2013-2014,government surveillance
+mn-SF 2037-2013-2014,warrants
+mn-SF 2037-2013-2014,evidence admissibility
+mn-SF 2037-2013-2014,private remedy against government
+mn-SF 2687-2013-2014,government surveillance
+mn-SF 2687-2013-2014,warrants
+mn-SF 2687-2013-2014,pre-acquisition approval
+mn-SF 2687-2013-2014,minimization
+mn-SF 2687-2013-2014,biometrics
+mn-SF 2687-2013-2014,data retention
+mn-SF 2687-2013-2014,evidence admissibility
+mn-SF 2687-2013-2014,notice to targets
+mn-SF 2687-2013-2014,private remedy against government
+mn-SF 2687-2013-2014,public disclosure
+mn-SF 485-2013-2014,government surveillance
+mn-SF 485-2013-2014,warrants
+mn-SF 485-2013-2014,private remedy against government
+mn-SF 485-2013-2014,evidence admissibility
+mo-HB 46-2013,government surveillance
+mo-HB 46-2013,warrants
+mo-HB 46-2013,private invasion of privacy
+mo-HB 46-2013,agricultural surveillance ban
+mo-HB 46-2013,private remedy against government
+mo-HB 46-2013,evidence admissibility
+mt-SB 150-2013,government surveillance
+mt-SB 150-2013,evidence admissibility
+mt-SB 150-2013,weapon ban
+nc-HB 312-2013,government surveillance
+nc-HB 312-2013,evidence admissibility
+nc-HB 312-2013,warrants
+nc-HB 312-2013,minimization
+nc-HB 312-2013,biometrics
+nc-HB 312-2013,criminal penalties
+nc-HB 312-2013,data retention
+nc-HB 312-2013,public disclosure
+nd-HB 1373-63,government surveillance
+nd-HB 1373-63,warrants
+nd-HB 1373-63,evidence admissibility
+nd-HB 1373-63,data retention
+nd-HB 1373-63,study uavs
+nd-HB 1373-63,public disclosure
+nd-HB 1373-63,notice to targets
+nd-HB 1373-63,failed
+nh-HB 1361-2014,government surveillance
+nh-HB 1361-2014,evidence admissibility
+nh-HB 1361-2014,warrants
+nh-HB 1361-2014,private remedy against government
+nh-HB 1620-2014,government surveillance
+nh-HB 1620-2014,warrants
+nh-HB 1620-2014,data retention
+nh-HB 1620-2014,evidence admissibility
+nh-HB 1620-2014,weapon ban
+nh-HB 1620-2014,private remedy against government
+nh-HB 1620-2014,private invasion of privacy
+nh-HB 1620-2014,criminal penalties
+nh-HB 1620-2014,extra penalty for hacking uav
+nj-A 3157-215,government surveillance
+nj-A 3157-215,warrants
+nj-A 3157-215,public disclosure
+nj-A 3157-215,evidence admissibility
+nj-A 3157-215,ban private ownership or posession
+nj-A 3929-215,government surveillance
+nj-A 3929-215,evidence admissibility
+nj-A 3929-215,private remedy against government
+nj-A 4073-215,government surveillance
+nj-A 4073-215,evidence admissibility
+nj-A 4073-215,data retention
+nj-A 4073-215,public disclosure
+nj-A 4073-215,weapon ban
+nj-A 4073-215,ban 3d party disclosure
+nj-A 4091-215,government surveillance
+nj-A 4091-215,private remedy against government
+nj-A 4091-215,evidence admissibility
+nj-A 4091-215,limit altitude of law enforcement uav
+nj-A 4381-215,government surveillance
+nj-A 4381-215,warrants
+nj-A 4381-215,minimization
+nj-A 534-216,government surveillance
+nj-A 534-216,private remedy against government
+nj-A 534-216,evidence admissibility
+nj-A 534-216,limit altitude of law enforcement uav
+nj-S 2702-215,government surveillance
+nj-S 2702-215,warrants
+nj-S 2702-215,data retention
+nj-S 2702-215,ban 3d party disclosure
+nj-S 2702-215,evidence admissibility
+nj-S 2702-215,public reporting
+nj-S 2702-215,weapon ban
+nm-HJM 6-2012,requesting FAA choose state for test site
+nm-SB 556-2013,government surveillance
+nm-SB 556-2013,agricultural surveillance ban
+nm-SB 556-2013,warrants
+nm-SB 556-2013,criminal penalties
+nm-SB 556-2013,private remedy against government
+nm-SB 556-2013,evidence admissibility
+nv-SCR 7-77,requesting FAA choose state for test site
+ny-A 6244-2013-2014,government surveillance
+ny-A 6244-2013-2014,warrants
+ny-A 6244-2013-2014,evidence admissibility
+ny-A 6370-2013-2014,government surveillance
+ny-A 6370-2013-2014,warrants
+ny-A 6370-2013-2014,special protection for place of worship
+ny-A 6370-2013-2014,evidence admissibility
+ny-A 6370-2013-2014,private remedy against government
+ny-A 6370-2013-2014,criminal penalties
+ny-A 6541-2013-2014,government surveillance
+ny-A 6541-2013-2014,warrants
+ny-A 6541-2013-2014,data retention
+ny-A 6541-2013-2014,weapon ban
+ny-A 6541-2013-2014,administrative discipline
+ny-A 6541-2013-2014,public disclosure
+ny-A 6541-2013-2014,evidence admissibility
+ny-A 6541-2013-2014,pre-acquisition approval
+ny-A 8091-2013-2014,private invasion of privacy
+ny-S 4839-2013-2014,government surveillance
+ny-S 4839-2013-2014,warrants
+ny-S 4839-2013-2014,pre-acquisition approval
+ny-S 4839-2013-2014,public disclosure
+ny-S 4839-2013-2014,administrative penalties
+ny-S 4839-2013-2014,weapon ban
+ny-S 4839-2013-2014,data retention
+ny-S 6412-2013-2014,government surveillance
+ny-S 6412-2013-2014,warrants
+ny-S 6412-2013-2014,evidence admissibility
+oh-HB 364-130,uav licenses
+oh-HB 364-130,public notice
+oh-HB 364-130,limit intragovernment sharing
+oh-HB 364-130,warrants
+oh-HB 364-130,evidence admissibility
+oh-HB 364-130,notice to targets
+oh-HB 364-130,weapon ban
+oh-HB 364-130,private remedy against government
+oh-HB 364-130,administrative discipline
+oh-HB 364-130,public disclosure
+oh-HCR 44-130,requesting FAA choose state for test site
+oh-SB 189-130,government surveillance
+oh-SB 189-130,pre-acquisition approval
+oh-SB 189-130,limit intragovernment sharing
+oh-SB 189-130,warrants
+oh-SB 189-130,data minimization
+oh-SB 189-130,evidence admissibility
+oh-SB 189-130,data minimization
+oh-SB 189-130,biometrics
+oh-SB 189-130,weapon ban
+oh-SB 189-130,administrative penalties
+oh-SB 189-130,public disclosure
+oh-SCR 19-129,requesting FAA choose state for test site
+ok-HB 1556-2013-2014,government surveillance
+ok-HB 1556-2013-2014,warrants
+ok-HB 1556-2013-2014,criminal penalties
+ok-HB 1556-2013-2014,private remedy against government
+ok-HB 1556-2013-2014,evidence admissibility
+ok-HB 1556-2013-2014,minimization
+ok-HB 1556-2013-2014,data retention
+ok-HB 1556-2013-2014,weapon ban
+ok-HB 1556-2013-2014,no mfr liability
+ok-SB 2043-2013-2014,government surveillance
+ok-SB 2043-2013-2014,weapon ban
+ok-SB 2043-2013-2014,criminal penalties
+ok-SB 2043-2013-2014,private invasion of privacy
+ok-SB 2043-2013-2014,evidence admissibility
+or-HB 2710-2013 Regular Session,government surveillance
+or-HB 2710-2013 Regular Session,warrants
+or-HB 2710-2013 Regular Session,uav licenses
+or-HB 2710-2013 Regular Session,evidence admissibility
+or-HB 2710-2013 Regular Session,public disclosure
+or-HB 2710-2013 Regular Session,weapon ban
+or-HB 2710-2013 Regular Session,criminal penalties
+or-HB 2710-2013 Regular Session,civil cause of action
+or-HB 2710-2013 Regular Session,private remedy against government
+or-HB 2710-2013 Regular Session,preempt local rules
+or-SB 524-2013 Regular Session,government surveillance
+or-SB 524-2013 Regular Session,warrants
+or-SB 524-2013 Regular Session,minimization
+or-SB 524-2013 Regular Session,data retention
+or-SB 524-2013 Regular Session,weapon ban
+or-SB 524-2013 Regular Session,pre-acquisition approval
+or-SB 853-2013 Regular Session,government surveillance
+or-SB 853-2013 Regular Session,warrants
+or-SB 853-2013 Regular Session,evidence admissibility
+or-SB 853-2013 Regular Session,data minimization
+or-SB 853-2013 Regular Session,biometrics
+or-SB 853-2013 Regular Session,disclosure to targets
+or-SB 853-2013 Regular Session,uav licenses
+or-SB 853-2013 Regular Session,oversight board
+or-SB 853-2013 Regular Session,study uavs
+or-SB 853-2013 Regular Session,died
+pa-HB 2516-2011-2012,government surveillance
+pa-SB 875-2013-2014,weapon ban
+pa-SB 875-2013-2014,moratorium
+ri-HB 5780-2013,pre-acquisition approval
+ri-HB 5780-2013,weapon ban
+ri-HB 5780-2013,government surveillance
+ri-HB 5780-2013,warrants
+ri-HB 5780-2013,evidence admissibility
+ri-HB 5780-2013,disclosure to targets
+ri-HB 5780-2013,private remedy against government
+ri-HB 5780-2013,data retention
+ri-HB 5780-2013,public disclosure
+ri-HB 7170-2014,pre-acquisition approval
+ri-HB 7170-2014,government surveillance
+ri-HB 7170-2014,warrants
+ri-HB 7170-2014,data minimization
+ri-HB 7170-2014,biometrics
+ri-HB 7170-2014,disclosure to targets
+ri-HB 7170-2014,evidence admissibility
+ri-HB 7170-2014,private remedy against government
+ri-HB 7170-2014,data retention
+ri-HB 7170-2014,public disclosure
+ri-SB 2362-2014,government surveillance
+ri-SB 2362-2014,warrants
+ri-SB 2362-2014,evidence admissibility
+ri-SB 2362-2014,private remedy against government
+sc-H 3415-2013-2014,government surveillance
+sc-H 3415-2013-2014,warrants
+sc-H 3415-2013-2014,evidence admissibility
+sc-H 3514-2013-2014,government surveillance
+sc-H 3514-2013-2014,warrants
+sc-H 3514-2013-2014,private invasion of privacy
+sc-H 3514-2013-2014,biometrics
+sc-S 395-2013-2014,government surveillance
+sc-S 395-2013-2014,warrants
+tn-HB 1669-108,tax break
+tn-SB 1752-108,tax break
+tn-SB 3047-107,government surveillance
+tn-SB 3047-107,warrants
+tx-HR 866-83,requesting FAA choose state for test site
+tx-SB 1704-83,cooperating with feds
+ut-SB 167-2014,government surveillance
+ut-SB 167-2014,warrants
+ut-SB 167-2014,data retention
+ut-SB 167-2014,public disclosure
+va-HB 1616-2013,government surveillance
+va-HB 1616-2013,minimization
+va-HB 1616-2013,disclosure to targets
+va-HB 1616-2013,protect university use
+va-HB 1616-2013,evidence admissibility
+va-HB 1616-2013,data retention
+va-HB 1616-2013,weapon ban
+va-HB 1616-2013,public disclosure
+va-HB 1616-2013,pre-acquisition approval
+va-HB 1616-2013,biometrics
+vt-H 540-2013-2014,government surveillance
+vt-H 540-2013-2014,warrants
+vt-H 540-2013-2014,minimization
+vt-H 540-2013-2014,biometrics
+vt-H 540-2013-2014,evidence admissibility
+vt-H 540-2013-2014,weapon ban
+vt-H 540-2013-2014,public disclosure
+vt-S 169-2013-2014,government surveillance
+vt-S 169-2013-2014,warrants
+vt-S 169-2013-2014,biometrics
+vt-S 169-2013-2014,evidence admissibility
+vt-S 169-2013-2014,minimization
+vt-S 169-2013-2014,weapon ban
+vt-S 169-2013-2014,public disclosure
+wa-HB 1771-2013-2014,government surveillance
+wa-HB 1771-2013-2014,pre-acquisition approval
+wa-HB 1771-2013-2014,minimization
+wa-HB 1771-2013-2014,warrants
+wa-HB 1771-2013-2014,notice to targets
+wa-HB 1771-2013-2014,evidence admissibility
+wa-HB 1771-2013-2014,data retention
+wa-HB 1771-2013-2014,private remedy against government
+wa-HB 1771-2013-2014,public disclosure
+wa-HB 2178-2013-2014,ban certain private use
+wa-HB 2178-2013-2014,government surveillance
+wa-HB 2178-2013-2014,criminal penalties
+wa-HB 2178-2013-2014,private invasion of privacy
+wa-HB 2178-2013-2014,private remedy against government
+wa-HB 2789-2013-2014,government surveillance
+wa-HB 2789-2013-2014,pre-acquisition approval
+wa-HB 2789-2013-2014,public notice
+wa-HB 2789-2013-2014,public comment period
+wa-HB 2789-2013-2014,warrants
+wa-HB 2789-2013-2014,notice to target
+wa-HB 2789-2013-2014,study uavs
+wa-HB 2789-2013-2014,evidence admissibility
+wa-HB 2789-2013-2014,ban 3d party disclosure
+wa-HB 2789-2013-2014,data retention
+wa-HB 2789-2013-2014,private remedy against government
+wa-HB 2789-2013-2014,public disclosure
+wa-SB 6172-2013-2014,government surveillance
+wa-SB 6172-2013-2014,pre-acquisition approval
+wa-SB 6172-2013-2014,warrants
+wa-SB 6172-2013-2014,notice to target
+wa-SB 6172-2013-2014,evidence admissibility
+wa-SB 6172-2013-2014,ban 3d party disclosure
+wa-SB 6172-2013-2014,data retention
+wa-SB 6172-2013-2014,private remedy against government
+wa-SB 6172-2013-2014,public reporting
+wv-HB 2732-2013,government surveillance
+wv-HB 2732-2013,weapon ban
+wv-HB 2732-2013,warrants
+wv-HB 2732-2013,private remedy against government
+wv-HB 2732-2013,evidence admissibility
+wv-HB 2948-2013,government surveillance
+wv-HB 2948-2013,evidence admissibility
+wv-HB 2948-2013,private remedy against government
+wv-HB 2997-2014,government surveillance
+wv-HB 2997-2014,warrants
+wv-HB 2997-2014,weapon ban
+wv-HB 2997-2014,ban certain private use
+wv-HB 2997-2014,no surveillance of political beliefs
+wv-HB 2997-2014,evidence admissibility
+wv-HB 2997-2014,data retention
+wv-HB 2997-2014,disclosure to targets
+wy-HB 105-2014,government surveillance
+wy-HB 105-2014,warrants
+wy-HB 105-2014,fresh pursuit exception
+wy-HB 105-2014,evidence admissibility
+ca-AB 1524-20132014,identifying uavs
+ca-AB 1524-20132014,exempt model planes
+hi-SB 3053-2014 Regular Session,FAA test site operations
+la-SB 330-2014,private invasion of privacy
+la-SB 330-2014,protecting certain private uav use
+la-SB 330-2014,government surveillance
+la-SB 330-2014,warrants
+la-SB 330-2014,evidence admissibility
+la-SB 330-2014,civil penalties
+la-SB 330-2014,private remedy against government
+la-SB 330-2014,public disclosure
+tn-HB 1779-108,private invasion of privacy
+tn-HB 1779-108,evidence admissibility
+tn-SB 1892-108,criminal penalties
+tn-SB 1892-108,private invasion of privacy
+tn-SB 1892-108,evidence admissibility
+ca-AB 1327-20132014,government surveillance
+ca-AB 1327-20132014,public disclosure
+ca-AB 1327-20132014,data retention
+ca-AB 1327-20132014,weapon ban
+ca-AB 1327-20132014,passed one chamber
+ca-AB 1327-20132014,warrants
+ca-AB 1327-20132014,public notice
+ca-AB 1327-20132014,limit intragovernment sharing
+ca-AB 1327-20132014,weapon ban
+ca-AB 1327-20132014,minimization
+mo-HB 1204-2014,government surveillance
+mo-HB 1204-2014,warrants
+mo-HB 1204-2014,private invasion of privacy
+mo-HB 1204-2014,agricultural surveillance ban
+mo-HB 1204-2014,protecting certain private uav use
+mo-HB 1204-2014,private remedy against government
+mo-HB 1204-2014,evidence admissibility
+wi-AB 203-2013 Regular Session,government surveillance
+wi-AB 203-2013 Regular Session,warrants
+wi-AB 203-2013 Regular Session,weapon ban
+wi-AB 203-2013 Regular Session,criminal penalties
+wi-AB 203-2013 Regular Session,private invasion of privacy
+wi-AB 203-2013 Regular Session,evidence admissibility
+wi-SB 196-2013 Regular Session,government surveillance
+wi-SB 196-2013 Regular Session,weapon ban
+wi-SB 196-2013 Regular Session,private invasion of privacy
+ny-S 7474-2013-2014,no hunting with uav
+la-SB 356-2014,critical infrastructure ban
+oh-HB 207-130,government surveillance
+oh-HB 207-130,warrants
+oh-HB 207-130,evidence admissibility
+oh-HB 207-130,private remedy against government
+la-SCR 124-2014,study uavs
+pa-SB 1334-2013-2014,protects hunters
+ca-AB 2306-20132014,private invasion of privacy
+oh-HB 292-130,study uavs
+md-HB 1233-2013,government surveillance
+md-HB 1233-2013,warrants
+md-HB 1233-2013,private remedy against government
+md-HB 1233-2013,evidence admissibility
+nd-HB 1373-63,government surveillance
+nd-HB 1373-63,warrants
+nd-HB 1373-63,weapon ban
+nd-HB 1373-63,private invasion of privacy
+nd-HB 1373-63,no surveillance of political beliefs
+nd-HB 1373-63,evidence admissibility
+nd-HB 1373-63,data retention
+nd-HB 1373-63,study uavs
+ny-S 7639-2013-2014,protect university use
+ny-S 7639-2013-2014,private invasion of privacy
+ny-S 7639-2013-2014,criminal penalties
+wv-HB 2997-2013,government surveillance
+wv-HB 2997-2013,warrants
+wv-HB 2997-2013,weapon ban
+wv-HB 2997-2013,no surveillance of political beliefs
+wv-HB 2997-2013,private remedy against government
+wv-HB 2997-2013,evidence admissibility
+wv-HB 2997-2013,data retention

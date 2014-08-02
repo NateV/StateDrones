@@ -52,6 +52,7 @@ gem 'formtastic'
 
 group :test, :development do
   #gem 'rspec', git: 'https://github.com/rspec/rspec-core.git'
+  gem 'Network', :path => '/Users/nathanvogel/Documents/Ruby Development/Network'
   gem 'rspec-rails'
   gem 'watchr'
   gem 'factory_girl_rails'
@@ -65,4 +66,5 @@ group :test do
   gem 'launchy'
   gem 'cucumber-rails'
   gem 'database_cleaner'
+  gem 'fakeweb', '~>1.3'
 end

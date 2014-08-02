@@ -3,14 +3,19 @@ require 'net/http'
 class BillsController < ApplicationController
 
   def index
-    @all_bills = Bill.all.sort {|bill1, bill2|  
+    if params[:state] then
+      @all_bills = Bill.where("state" => params[:state])
+    else
+      @all_bills = Bill.all.sort {|bill1, bill2|  
       if bill1.state!=bill2.state
         bill1.state <=> bill2.state
       else
         bill1.bill_id <=> bill2.bill_id
       end
     }
+    end
   end# of #index
+
 
   def new
     @new_bill = Bill.new

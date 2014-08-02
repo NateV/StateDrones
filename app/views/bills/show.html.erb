@@ -55,7 +55,7 @@
 		<ul>
 		  Sponsors: 
 		  <% @bill.sponsors.each do |sponsor| %>
-			<li> <%= sponsor.name %> </li>
+			<li> <%= sponsor.name %>, <%= begin Legislator.find_by_leg_id(sponsor.leg_id).party rescue "--Unknown legislator--" end%> </li>
 		  <% end %> 
 		</ul>
 	  <% end %>     
@@ -78,7 +78,7 @@
 	  <% if(@bill.actions.length>0) %>
 		<ul>
 		  Actions: 
-		  <% @bill.actions.each do |action| %>
+		  <% @bill.actions.sort{|a,b| b.date <=> a.date }.each do |action| %>
 			<li> <%= action["actor"].capitalize %> chamber, <%= action["action"] %>, <%= action["date"] %> (<%= action["type"] %>) </li>
 		  <% end %> 
 		</ul>
